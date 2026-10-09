@@ -45,7 +45,7 @@ npm run preview
 - `index.html`: conteúdo e metadados.
 - `style.css`: layout, responsividade e animações.
 - `app.js`: menu mobile e animações de entrada.
-- `assets/`: imagens originais do projeto; a foto usada é `portrait.jpeg`.
+- `assets/`: foto local utilizada pelo site (`portrait.jpeg`).
 - `vite.config.js`: build com caminhos relativos para permitir instalação em domínio ou subpasta.
 - `package-lock.json`: versões fixadas para instalação reproduzível.
 
